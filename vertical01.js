@@ -1,6 +1,6 @@
 // create a function that will output the letters of each name vertically
 
-let classmateNames = ["Samuel", "Hannah", "Tom", "Grethel", "Mathias", "Tanya", "Art", "Derrel", "Ben" ]
+let classmateNames = [`Samuel Hannah Tom Grethel Mathias Tanya Art Derrel Ben King`]
 let emptyArray = []
 
 function classmateSorting (emptyArray) {
